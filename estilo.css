@@ -1,12 +1,12 @@
 *{
-	margin:0;
-	padding:0;
+	margin:2;
+	padding:2;
 }
 
 body{
 	background:rgba(255,0,0,1);
 	color:rgba(0,25,0,1);
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-weight:300;
 }
 
@@ -40,7 +40,7 @@ h3{
 
 h4, h5, h6{
 	font-weight:left;
-	font-weight:600;
+	font-weight:800;
 }
 
 #contenido{width:98%; margin:1% auto;}
